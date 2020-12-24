@@ -8,5 +8,5 @@ Code is organised into 5 files:
 - stoch_helperfunctions.R : Miscellaneous functions for the running of code (e.g. compiling simuations, plotting output, reading lists)
 - Transition matrices fun.R : Defines transition matrices for model
 - SIRstoch_run.R : Performs SIR stochastic simulation
-- SEIRstoch_run.R : Performs SIR stochastic simulation
+- SEIRstoch_run.R : Performs SEIR stochastic simulation
 
