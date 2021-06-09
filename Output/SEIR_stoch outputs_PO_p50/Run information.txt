@@ -1,0 +1,16 @@
+Structure: SEIR
+
+Function: "Plus-One"
+
+Prevalence: 50%
+
+Theta: 0.1, 0.5, 1, 2, 10
+
+Nsims: 500
+
+Date run: 20200512
+
+Version: SIRstoch_run_V22
+
+Files deliberately not run: 32, 33, 36, 41, 44, 45, 50, 53
+Files didn't run at 500sims: no extras 
