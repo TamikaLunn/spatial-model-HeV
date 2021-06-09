@@ -10,6 +10,7 @@ Code is organised into an RProject containing 8 files:
 - SIRstoch_stats_VX.R : Code to plot SIR model output
 - SEIRstoch_stats_VX.R : Code to plot SEIR model output
 - Distribution of PW distances.R : Calculates meta-data of pairwise distances between trees in the stand
+- ** Important to load the code as the RProject so that root folders in setwd are correct **
 
 Data is organised into an RProject containing 6 files:
 - /Raw : Gives data matricies (meters) used in models. Naming links with other projects using this data. DTOW = sparse tree distrubution; DCLU = intermediate tree distrubution; DTOW = dense tree distrubution. Visuals of the stand structures are also provided in the root folder
