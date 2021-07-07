@@ -1,5 +1,5 @@
 # spatial-model-HeV
-Data and code repository for Lunn et al (2021) 'Spatial dynamics of pathogen transmission in communally roosting species: impacts of changing habitats on bat-virus dynamics'
+Data and code repository for Lunn et al (2021) 'Spatial dynamics of pathogen transmission in communally roosting species: impacts of changing habitats on bat-virus dynamics'. DOI: 10.1111/(ISSN)1365-2656
 
 To explore how infection dynamics are influenced by heterogeneity in stand structure, we applied spatially explicit and stochastic compartmental models to three empirical examples of flying-fox roost stand structures, representing sparse, intermediate, and dense stand structures respectively. Generation of the spatial model structure needs input of a distance matrix between tree-groups, and specification of how transmission is expected to relate to distance. 
 
